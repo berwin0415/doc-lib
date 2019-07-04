@@ -6,11 +6,11 @@
 * [HTML 资料室](./HTML-Library/README.md)
 * [JavaScript 资料室](./JAVASCRIPT-Library/README.md)
     * [正则](JAVASCRIPT-Library/RegExp.md)
-    * [数据结构与算法](AVASCRIPT-Library/DataStructures&Algorithms/README.md)
-        * [算法]
+    * [数据结构与算法](JAVASCRIPT-Library/DataStructures&Algorithms/README.md)
+        * [算法](JAVASCRIPT-Library/DataStructures&Algorithms/Algorithms/README.md)
             * [排序](JAVASCRIPT-Library/DataStructures&Algorithms/Algorithms/sort.md)
             * [递归](JAVASCRIPT-Library/DataStructures&Algorithms/Algorithms/recursion.md)
-        * [数据结构]
+        * [数据结构](JAVASCRIPT-Library/DataStructures&Algorithms/DataStructures/README.md)
             * [堆栈](JAVASCRIPT-Library/DataStructures&Algorithms/DataStructures/stack.md)
             * [队列](JAVASCRIPT-Library/DataStructures&Algorithms/DataStructures/queue.md)
 * [Nodejs 资料室](./NODEJS-Library/README.md)
