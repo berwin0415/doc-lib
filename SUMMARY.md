@@ -11,4 +11,5 @@
     * [LeetCode](./OTHER-Library/LeetCode/README.md)
     * [日志](./OTHER-Library/logs/README.md)
     * [服务器相关](./OTHER-Library/Server/README.md)
+        * [配置Ubuntu+Ngnix+Nodejs+Mysql环境](./CNNM-env.md)
 
