@@ -1,0 +1,64 @@
+{
+    "title": "原木 的文档库",
+    "author": "berwin",
+    "description": "原木的文档库，原木的学习工作笔记",
+    "language": "zh-hans",
+    "styles": {
+      "website": "./public-repertory/css/gitbook-configure.css"
+    },
+    "plugins": [
+      "theme-comscore",
+      "prism",
+      "-highlight",
+      "copy-code-button",
+      "search-pro",
+      "-search",
+      "-lunr",
+      "expandable-chapters",
+      "splitter",
+      "-sharing",
+      "github-buttons",
+      "tbfed-pagefooter",
+      "baidu-tongji",
+      "anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+      "github-buttons": {
+        "buttons": [
+          {
+            "user": "LiangJunrong",
+            "repo": "document-library", 
+            "type": "star",
+            "count": true,
+            "size": "small"
+          }, 
+          {
+            "user": "LiangJunrong",
+            "width": "160", 
+            "type": "follow", 
+            "count": true,
+            "size": "small"
+          }
+        ]
+      },
+      "prism": {
+        "css": [
+          "prismjs/themes/prism-solarizedlight.css"
+        ],
+        "lang": {
+          "shell": "bash"
+        }
+      },
+      "tbfed-pagefooter": {
+        "copyright":"Copyright &copy hanbw.top 2019",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "baidu-tongji": {
+        "token": "38e763efc5761e4cfc3aa134896966fa"
+      },
+      "anchor-navigation-ex": {
+        "showLevel": false
+      }
+    }
+  }
