@@ -3,3 +3,4 @@
 ## 目录
 
 - [github pages](./githubPages.md)
+- [CentOS7安装git](./CentOS7安装git.md)
