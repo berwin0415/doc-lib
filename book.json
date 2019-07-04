@@ -26,14 +26,14 @@
       "github-buttons": {
         "buttons": [
           {
-            "user": "LiangJunrong",
-            "repo": "document-library", 
+            "user": "berwin0415",
+            "repo": "doc-lib", 
             "type": "star",
             "count": true,
             "size": "small"
           }, 
           {
-            "user": "LiangJunrong",
+            "user": "berwin0415",
             "width": "160", 
             "type": "follow", 
             "count": true,
