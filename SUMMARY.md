@@ -11,7 +11,7 @@
         * [github pages](./OTHER-Library/git/githubPages.md)
         * [CentOS7安装git](./OTHER-Library/git/CentOS7安装git.md)
     * [LeetCode](./OTHER-Library/LeetCode/README.md)
-        * [30 串联所有单词的子串）](./OTHER-Library/LeetCode/#30.md)
+        <!-- * [30 串联所有单词的子串）](./OTHER-Library/LeetCode/#30.md)
         * [41 缺失的第一个正数（待优化）](./OTHER-Library/LeetCode/#41.md)
         * [85 最大矩形（待优化）](./OTHER-Library/LeetCode/#85.md)
         * [93 复原IP地址](./OTHER-Library/LeetCode/#93.md)
@@ -19,7 +19,7 @@
         * [215 数组中第k个最大元素](./OTHER-Library/LeetCode/#215.md)
         * [682 设计循环队列](./OTHER-Library/LeetCode/#622.md)
         * [682 棒球比赛](./OTHER-Library/LeetCode/#682.md)
-        * [922 按奇偶排序数组(待整理)](./OTHER-Library/LeetCode/#922.md)
+        * [922 按奇偶排序数组(待整理)](./OTHER-Library/LeetCode/#922.md) -->
     * [日志](./OTHER-Library/logs/README.md)
         * [2019-06](./OTHER-Library/logs/2019-06.md)
         * [2019-07](./OTHER-Library/logs/2019-07.md)
