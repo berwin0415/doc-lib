@@ -6,6 +6,8 @@
 * [HTML 资料室](./HTML-Library/README.md)
 * [JavaScript 资料室](./JAVASCRIPT-Library/README.md)
     * [正则](JAVASCRIPT-Library/RegExp.md)
+    * [TypeScript](JAVASCRIPT-Library/TypeScript/README.md)
+        * [01 基本类型](JAVASCRIPT-Library/TypeScript/01-types.md)
     * [数据结构与算法](JAVASCRIPT-Library/DataStructures&Algorithms/README.md)
         * [算法](JAVASCRIPT-Library/DataStructures&Algorithms/Algorithms/README.md)
             * [排序](JAVASCRIPT-Library/DataStructures&Algorithms/Algorithms/sort.md)
