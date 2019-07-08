@@ -31,7 +31,7 @@
         * [682 设计循环队列](./OTHER-Library/LeetCode/622.md)
         * [682 棒球比赛](./OTHER-Library/LeetCode/682.md)
         * [922 按奇偶排序数组(待整理)](./OTHER-Library/LeetCode/922.md)
-    * [日志](OTHER-Library/logs/README.md)
+    * [日志](OTHER-Library/LeetCode/README.md)
         * [2019-06](OTHER-Library/logs/2019-06.md)
         * [2019-07](OTHER-Library/logs/2019-07.md)
     * [服务器相关](OTHER-Library/Server/README.md)
