@@ -34,7 +34,7 @@
     * [日志](OTHER-Library/logs/README.md)
         * [2019-06](OTHER-Library/logs/2019-06.md)
         * [2019-07](OTHER-Library/logs/2019-07.md)
-    * [服务器相关](./OTHER-Library/Server/README.md)
-        * [配置Ubuntu+Ngnix+Nodejs+Mysql环境](./OTHER-Library/Server/CNNM-env.md)
-        * [jenkins安装配置](./OTHER-Library/Server/Jenkins.md)
+    * [服务器相关](OTHER-Library/Server/README.md)
+        * [配置Ubuntu+Ngnix+Nodejs+Mysql环境](OTHER-Library/Server/CNNM-env.md)
+        * [jenkins安装配置](OTHER-Library/Server/Jenkins.md)
 

@@ -8,8 +8,6 @@
     },
     "plugins": [
       "theme-comscore",
-      "prism",
-      "-highlight",
       "copy-code-button",
       "search-pro",
       "-search",
@@ -40,14 +38,6 @@
             "size": "small"
           }
         ]
-      },
-      "prism": {
-        "css": [
-          "prismjs/themes/prism-solarizedlight.css"
-        ],
-        "lang": {
-          "shell": "bash"
-        }
       },
       "tbfed-pagefooter": {
         "copyright":"Copyright &copy hanbw.top 2019",
