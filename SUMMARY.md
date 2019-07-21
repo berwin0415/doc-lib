@@ -4,7 +4,7 @@
 * [目录](./SUMMARY.md)
 * [CSS 资料室](./CSS-Library/README.md)
 * [HTML 资料室](./HTML-Library/README.md)
-* [JavaScript 资料室](./JAVASCRIPT-Library/README.md)
+* [JavaScript 资料室](JAVASCRIPT-Library/README.md)
     * [正则](JAVASCRIPT-Library/RegExp.md)
     * [TypeScript](JAVASCRIPT-Library/TypeScript/README.md)
         * [01 基本类型](JAVASCRIPT-Library/TypeScript/01-types.md)

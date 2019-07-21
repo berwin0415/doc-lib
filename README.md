@@ -12,7 +12,7 @@
 |--------------------|------------------------------|
 |CSS-library         |[CSS 文档仓库](./CSS-Library/README.md)                   |
 |HTML-library        |HTML 文档仓库                   |
-|JavaScript-library  |JavaScript 文档仓库            |
+|JavaScript-library  |[JavaScript 文档仓库](JAVASCRIPT-Library/README.md)           |
 |other-library       |[其他文档仓库](./OTHER-Library/README.md)   |
 |public-repertory    |文档仓库使用到的图片、CSS 文件等…… |
 
