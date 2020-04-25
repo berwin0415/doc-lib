@@ -1,0 +1,27 @@
+{
+  "name": "doc-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berwin0415/doc-lib.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berwin0415/doc-lib/issues"
+  },
+  "homepage": "https://github.com/berwin0415/doc-lib#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0"
+  }
+}
