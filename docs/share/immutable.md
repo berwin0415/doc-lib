@@ -84,3 +84,4 @@ Immutable只是一个定义，有各种实现，Immutable.js就是facebook工程
 故我们这里介绍Immutable的另一个实现，`immer`。
 
 `Immer` 是 mobx 的作者写的一个 immutable 库，核心实现是利用 ES6 的 proxy，几乎以最小的成本实现了 js 的不可变数据结构，简单易用、体量小巧、设计巧妙，满足了我们对JS不可变数据结构的需求。
+
