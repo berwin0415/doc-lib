@@ -304,7 +304,7 @@ class example:
 
 在 Python 中 属性的获取 存在一个 向上查找机制
 
-![img](../../PUBLIC-Repertory/images/python/019_通过对象访问类属性.png)
+![img](../../PUBLIC-Repertory/images/python/019_1.png)
 
 
 ### 9.2 类方法和静态方法

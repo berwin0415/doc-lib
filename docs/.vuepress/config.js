@@ -27,8 +27,8 @@ module.exports = {
           { text: "javascript", text: "js仓库", link: "/docs/javascript/" },
           { text: "css", text: "css仓库", link: "/docs/css/" },
           { text: "html", text: "html仓库", link: "/docs/html/" },
-          { text: "python", text: "python仓库", link: "/docs/python/" },
-          { text: "other", text: "其他资料", link: "/docs/others/" },
+          // { text: "python", text: "python仓库", link: "/docs/python/" },
+          // { text: "other", text: "其他资料", link: "/docs/others/" },
         ],
       },
       {
@@ -77,38 +77,38 @@ module.exports = {
           collapsable: false,
         },
       ],
-      "/docs/pythons/": [
-        {
-          title: "javascript仓库",
-          collapsable: false,
-          children: [
-            ["js", "js笔记"],
-            {
-              title: "typescdript",
-              collapsable: false,
-              children: [
-                "TypeScript/01-types",
-                "TypeScript/02-declare",
-                "TypeScript/03-interface",
-                "TypeScript/04-class",
-                "TypeScript/05-function",
-                "TypeScript/06-generic",
-                "TypeScript/07-inference",
-                "TypeScript/08-advance",
-              ],
-            },
-            {
-              title: "数据结构与算法",
-              collapsable: false,
-              children: [
-                "DataStructures_Algorithms/Algorithms/recursion",
-                "DataStructures_Algorithms/Algorithms/sort",
-                "DataStructures_Algorithms/DataStructures",
-              ],
-            },
-          ],
-        },
-      ],
+      // "/docs/pythons/": [
+      //   {
+      //     title: "javascript仓库",
+      //     collapsable: false,
+      //     children: [
+      //       ["js", "js笔记"],
+      //       {
+      //         title: "typescdript",
+      //         collapsable: false,
+      //         children: [
+      //           "TypeScript/01-types",
+      //           "TypeScript/02-declare",
+      //           "TypeScript/03-interface",
+      //           "TypeScript/04-class",
+      //           "TypeScript/05-function",
+      //           "TypeScript/06-generic",
+      //           "TypeScript/07-inference",
+      //           "TypeScript/08-advance",
+      //         ],
+      //       },
+      //       {
+      //         title: "数据结构与算法",
+      //         collapsable: false,
+      //         children: [
+      //           "DataStructures_Algorithms/Algorithms/recursion",
+      //           "DataStructures_Algorithms/Algorithms/sort",
+      //           "DataStructures_Algorithms/DataStructures",
+      //         ],
+      //       },
+      //     ],
+      //   },
+      // ],
       "/share/": [
         {
           title: "blog",
