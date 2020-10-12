@@ -8,12 +8,7 @@ const { Content: AntdContent } = Layout;
 export default function Content({ routes = [] }) {
   return (
     <AntdContent style={{ margin: "24px 16px 0" }} routes={routes}>
-      <div
-        className="site-layout-background"
-        style={{ padding: 24, minHeight: 360 }}
-      >
-        <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
-      </div>
+      <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
     </AntdContent>
   );
 }
